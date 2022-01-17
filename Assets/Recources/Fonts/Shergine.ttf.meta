@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8d1f709c9077c6046bf79ba687ff4aae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shergine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54aea8a97ec09624aadfe26bd46dc660, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0d7bada9aba4d7146a235013a5b37c68
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Flavellya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61f78a3596fddda4baeff58778c640f7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
